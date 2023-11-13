@@ -1,0 +1,15 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\bin\Debug\net6.0\Makeenapp.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\bin\Debug\net6.0\Makeenapp.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\bin\Debug\net6.0\Makeenapp.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\bin\Debug\net6.0\Makeenapp.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\bin\Debug\net6.0\Makeenapp.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\Makeenapp.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\Makeenapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\Makeenapp.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\Makeenapp.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\Makeenapp.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\Makeenapp.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\refint\Makeenapp.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\Makeenapp.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\Makeenapp.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\codepracties\Makeenappsolution\Makeenapp\obj\Debug\net6.0\ref\Makeenapp.dll
