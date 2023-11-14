@@ -1,0 +1,4 @@
+learn how install visual studio and install the packages of .NET after that we createing a new project. In Addition, i used C# language to write my code and i work with console application
+i used console class method like:
+1. Console.WriteLine()
+2.Console.ReadLine()
