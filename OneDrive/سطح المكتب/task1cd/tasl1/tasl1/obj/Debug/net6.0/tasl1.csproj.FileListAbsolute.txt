@@ -1,0 +1,15 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\bin\Debug\net6.0\tasl1.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\bin\Debug\net6.0\tasl1.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\bin\Debug\net6.0\tasl1.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\bin\Debug\net6.0\tasl1.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\bin\Debug\net6.0\tasl1.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\tasl1.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\tasl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\tasl1.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\tasl1.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\tasl1.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\tasl1.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\refint\tasl1.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\tasl1.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\tasl1.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\task1cd\tasl1\tasl1\obj\Debug\net6.0\ref\tasl1.dll
